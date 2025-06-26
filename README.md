@@ -1,5 +1,14 @@
 # Stayfit
+## 👨‍💻 Internship Details
 
+- **Company:** CODTECH IT SOLUTIONS  
+- **Intern Name:** Akshay V Devadiga  
+- **Intern ID:** CT04DF1166  
+- **Domain:** Android Development  
+- **Duration:** 4 Weeks  
+- **Mentor:** Neela Santosh  
+
+---
 ## Running the app
   Open the project in Android Studio
   
